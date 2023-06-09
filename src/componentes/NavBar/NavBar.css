@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav {
+    background-color: rgb(83, 83, 83);
+}
+
+h1 {
+    color: gold;
+}
+li {
+    cursor: pointer;
+    margin-left: 2rem;
+    text-transform: lowercase;
+    color: goldenrod;
+}
+
